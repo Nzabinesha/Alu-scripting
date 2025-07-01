@@ -1,6 +1,5 @@
-#!/usr/bin/python3
-"""
-1-main
+#!/bin/usr/python3
+""" mymain
 """
 import sys
 
